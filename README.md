@@ -20,4 +20,4 @@ The dataset consists of:
 
 Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/financial-market-analysis.git
+   git clone https://github.com/hazelglaine/financial-algorithms
