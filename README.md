@@ -18,6 +18,10 @@ The dataset consists of:
 - Historical daily returns for 5 stocks over a 3-year period.
 - Data is obtained using QuantStats.
 
+## Reference
+
+This project was inspired by and builds upon concepts and methodologies from the <a href="https://www.kaggle.com/code/lusfernandotorres/data-science-for-financial-markets/notebook">Kaggle Data Science for Financial Markets</a> project.
+
 Clone the repository:
    ```bash
    git clone https://github.com/hazelglaine/financial-algorithms
