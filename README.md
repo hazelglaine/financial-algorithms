@@ -10,13 +10,15 @@ The repository includes the following components:
 
 - **Data**: Historical daily returns data for the considered stocks.
 - **Notebook**: Jupyter notebook containing data analysis and machine learning models.
+     - `intro-stock-analysis`: Introduction on stock analysis and portfolio optimization using pre-selected stocks
+     - `stock-performance-analysis`: Implementation of various data analysis and machine learning models using stocks based with highest returns
 
 ## Data
 
 The dataset consists of:
 
 - Historical daily returns for selected stocks over a medium-term period.
-- Data is obtained using QuantStats.
+- Data is obtained using yfinance and QuantStats.
 
 ## Reference
 
